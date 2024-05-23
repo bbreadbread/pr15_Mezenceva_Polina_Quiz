@@ -30,13 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
             tools:ignore="MissingConstraints">
-
-
             <Button
                 android:id="@+id/true_button"
                 android:layout_width="117dp"
@@ -45,8 +39,7 @@
                 android:textColor="@color/white"
                 android:layout_margin="10dp"
                 android:background="@drawable/shape"
-                tools:ignore="MissingConstraints"
-                android:onClick="true_Ivent"/>
+                tools:ignore="MissingConstraints"/>
 
             <Button
                 android:id="@+id/false_button"
@@ -56,8 +49,7 @@
                 android:textColor="@color/white"
                 android:layout_margin="10dp"
                 android:background="@drawable/shape"
-                tools:ignore="MissingConstraints"
-                android:onClick="false_Ivent"/>
+                tools:ignore="MissingConstraints"/>
 
         </LinearLayout>
 
@@ -70,16 +62,16 @@
                 android:id="@+id/back_button"
                 android:layout_width="80dp"
                 android:layout_height="70dp"
-                android:layout_marginRight="19dp"
+                android:layout_marginEnd="19dp"
                 android:background="@drawable/arrow_left"
-                android:onClick="back_Ivent"/>
+                android:contentDescription="TODO" />
             <ImageButton
                 android:id="@+id/next_button"
                 android:layout_width="80dp"
                 android:layout_height="70dp"
-                android:layout_marginLeft="19dp"
+                android:layout_marginStart="19dp"
                 android:background="@drawable/arrow_right"
-                android:onClick="next_Ivent"/>
+                android:contentDescription="TODO" />
         </LinearLayout>
 
 

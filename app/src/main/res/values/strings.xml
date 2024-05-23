@@ -15,4 +15,7 @@
     <string name="qest3">В древней Греции поклонялись кошкам</string>
     <string name="qest4">Самая-самая популярная кошка в России — европейская короткошерстная</string>
     <string name="qest5">Cамого дружелюбного кота звали Феликс</string>
+    
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Не правильно!</string>
 </resources>
