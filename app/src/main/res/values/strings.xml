@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CatQuiz</string>
+
+    <string name="CatQuiz">CatQuiz</string>
+    <string name="email">E-mail</string>
+    <string name="Пароль">Пароль</string>
+    <string name="Welcome"> Войти </string>
+    <string name="Regist"> Регистрация </string>
+
+    <string name="true0">Верно</string>
+    <string name="false0">Не верно</string>
+
+    <string name="qest1">Крупная порода кошек с кисточками на ушах - Большая персидская</string>
+    <string name="qest2">Наука о кошках - Фелинология</string>
+    <string name="qest3">В древней Греции поклонялись кошкам</string>
+    <string name="qest4">Самая-самая популярная кошка в России — европейская короткошерстная</string>
+    <string name="qest5">Cамого дружелюбного кота звали Феликс</string>
+</resources>
